@@ -33,5 +33,3 @@ cacheSolve <- function(x, ...) {
   x$setsolve(m)
   m  
 }
-makeCacheMatrix(A)
-cacheSolve(A)
